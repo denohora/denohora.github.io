@@ -5,9 +5,9 @@ subtitle: Denis O'Hora Phd
 ---
 
 ## Welcome!
-I'm an [experimental psychologist] (http://en.wikipedia.org/wiki/Experimental_psychology)
-in the [School of Psychology] (http://www.nuigalway.ie/psychology/index.html) at 
-the [National University of Ireland in Galway] (http://www.nuigalway.ie)
+I'm an [experimental psychologist](http://en.wikipedia.org/wiki/Experimental_psychology)
+in the [School of Psychology](http://www.nuigalway.ie/psychology/index.html) at 
+the [National University of Ireland in Galway](http://www.nuigalway.ie)
 
 In our lab, we investigate the dynamics of Learning and Decision Making. 
 	Our research uses fine-grained behavioural analyses to investigate learning and decision making 
