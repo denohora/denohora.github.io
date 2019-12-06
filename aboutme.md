@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Denis O'Hora Phd
-subtitle: About me
+title: About me
+subtitle: Denis O'Hora Phd
 ---
 
 ## Welcome!
