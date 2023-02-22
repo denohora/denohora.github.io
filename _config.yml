@@ -20,6 +20,9 @@ description: Choice in Action Lab website
 
 # List of links in the navigation bar
 navbar-links:
+  Fool Me Once: 
+    - Play: "http://www.psychicsoftware.com:8703/"
+  
   Purpose: "aboutme"
 
   Projects:
