@@ -23,7 +23,7 @@ navbar-links:
   Fool Me Once: 
     - Play: "http://www.psychicsoftware.com:8703/"
   
-  Purpose: "aboutme"
+  Shopper Brain: "sbrain"
 
   Projects:
     - Basic Science: "aboutme"
@@ -34,7 +34,7 @@ navbar-links:
   
   Denis O'Hora PhD:
     - About me: "aboutme"
-    - NUI Galway: "https://www.nuigalway.ie/our-research/people/psychology/denisohora/"
+    - University of Galway: "https://www.universityofgalway.ie/our-research/people/psychology/denisohora/"
     - Google Scholar: "https://scholar.google.com/citations?user=zNJ9v-oAAAAJ&hl=en&oi=ao"
     - Open Science: "https://osf.io/gaj69/"
 
