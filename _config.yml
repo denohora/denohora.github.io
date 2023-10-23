@@ -24,13 +24,13 @@ navbar-links:
     - Play: "http://www.psychicsoftware.com:8703/"
   
   Shopper Brain: "sbrain"
-
-  Projects:
-    - Basic Science: "aboutme"
-    - Beyond the lab: "aboutme"
-    - Behaviour Change: "aboutme"
   
-  Team: "aboutme"
+  #   Projects:
+  #  - Basic Science: "aboutme"
+  #  - Beyond the lab: "aboutme"
+  #  - Behaviour Change: "aboutme"
+  
+  # Team: "aboutme"
   
   Denis O'Hora PhD:
     - About me: "aboutme"
